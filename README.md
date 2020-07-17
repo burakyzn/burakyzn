@@ -2,8 +2,7 @@
 
 I am Burak from Turkey :)
 
-I am a computer engineering student. 
-I have also been working for Ford Otosan since December 2019.
+I am a computer engineering student and I have also been working as a software developer for Ford Otosan since December 2019.
 
 ### Contact Me
 
